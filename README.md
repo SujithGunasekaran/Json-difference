@@ -11,7 +11,7 @@
 
 # Important
  
-  1. Please run the command in both server and client folder to download packages `npm install`
+  1. Please run the command `npm install` in both server and client folder to download packages
  
 # Information
 
