@@ -1,6 +1,6 @@
 # Json Difference
   
-  Compare Two Json data, get mismatch data
+  Compare Two Json data, find difference
   
 # Installation Setup 
  
